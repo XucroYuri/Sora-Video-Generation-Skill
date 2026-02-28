@@ -1,6 +1,6 @@
 # Sora Video Generation Skill
 
-A GitHub Copilot skill for generating and managing short video clips through OpenAI's Sora API (`sora-2` / `sora-2-pro`). The bundled CLI (`scripts/sora.py`) handles creation, polling, remixing, downloading, and batch runs — all from the command line.
+A general-purpose tool for generating and managing short video clips through OpenAI's Sora API (`sora-2` / `sora-2-pro`). The bundled CLI (`scripts/sora.py`) handles creation, polling, remixing, downloading, and batch runs — all from the command line.
 
 ![Sora](assets/sora.png)
 
